@@ -1,0 +1,2 @@
+timestamp,host,severity,technique,description,disposition
+2026-02-12T18:33:43Z,WIN-FIN-WS17,medium,T1105,Suspicious download over HTTP,contained

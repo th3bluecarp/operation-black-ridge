@@ -1,0 +1,4 @@
+stageTimestamp,verb,user.username,objectRef.resource,objectRef.namespace,objectRef.name,responseStatus.code
+2026-02-12T21:14:06Z,get,system:admin,secrets,analytics,,200
+2026-02-12T21:14:11Z,get,system:admin,secrets,analytics,grafana-admin,200
+2026-02-12T21:17:50Z,list,system:serviceaccount:default:scanner,pods,default,,200

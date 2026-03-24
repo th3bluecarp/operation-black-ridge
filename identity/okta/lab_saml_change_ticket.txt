@@ -1,0 +1,5 @@
+
+Lab SAML routing rules were tested on 2026-02-12 by IAM engineering.
+Rule name: lab-saml-test
+Purpose: verify fallback IdP behavior for sandbox app only.
+No production apps assigned.

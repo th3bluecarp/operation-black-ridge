@@ -1,0 +1,7 @@
+diff --git a/support/templates/ticket.html b/support/templates/ticket.html
+index 1299ab2..7750fad 100644
+--- a/support/templates/ticket.html
++++ b/support/templates/ticket.html
+@@ -31,7 +31,7 @@
+- Confirm your MFA reset in the employee helpdesk.
++ Confirm your MFA reset in the employee support portal.

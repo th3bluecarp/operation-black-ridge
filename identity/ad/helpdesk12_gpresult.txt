@@ -1,0 +1,10 @@
+
+Computer Name: WIN-HELPDESK-12
+Applied GPOs:
+- Default Domain Policy
+- Workstation Baseline
+- Helpdesk Remote Tools
+Local Administrators:
+- BLACKRIDGE\Domain Admins
+- BLACKRIDGE\Helpdesk Tier2
+- BLACKRIDGE\helpdesk.svc

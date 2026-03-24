@@ -1,0 +1,9 @@
+Received: from mx.safe-mail-filter.local (10.20.5.19)
+From: "Payroll Update" <noreply@payroll-updates.co>
+To: marina.ko@blackridge.example
+Subject: Updated direct deposit tax forms
+Date: Thu, 12 Feb 2026 08:11:44 -0800
+X-SEG-Action: quarantine
+
+Attachment: Updated_Payroll_Form.docm
+MD5: 7d6d0d8a0fbd6a3f613c3cb6fdd8ca19

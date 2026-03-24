@@ -1,0 +1,6 @@
+ts,src_ip,user,method,host,uri,status,bytes_out,category
+2026-02-12T17:03:45Z,10.24.77.19,marina.ko,CONNECT,help-blackridge.com,/ticket/84721/confirm,200,8422,Newly Observed Domain
+2026-02-12T17:40:18Z,10.24.77.19,helpdesk.svc,CONNECT,edge-auth-cdn.net,/assets/v1/a.dat,200,324112,Unknown
+2026-02-12T17:54:45Z,10.24.77.19,helpdesk.svc,POST,edge-auth-cdn.net,/collect,200,14029990,Unknown
+2026-02-12T20:17:03Z,10.20.9.11,admin,PUT,us-archive-files.s3-gw-storage.net,/brc-archive/2026-02-12/orion_stage.7z,200,78344321,Cloud Storage
+2026-02-12T21:15:11Z,10.20.9.22,svc.web,GET,api.github.com,/repos/blackridge/portal/commits,200,1821,Developer Tools

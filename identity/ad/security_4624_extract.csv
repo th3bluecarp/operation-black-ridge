@@ -1,0 +1,7 @@
+TimeCreated,EventID,Computer,TargetUserName,IpAddress,LogonType,ProcessName,WorkstationName
+2026-02-12 09:09:18,4624,WIN-HELPDESK-12,marina.ko,-,2,User32,WIN-HELPDESK-12
+2026-02-12 10:41:04,4624,WIN-HELPDESK-12,helpdesk.svc,10.24.77.19,3,C:\Windows\System32\svchost.exe,WIN-HELPDESK-12
+2026-02-12 11:52:13,4624,WIN-FS01,helpdesk.svc,10.24.77.19,3,C:\Windows\System32\svchost.exe,WIN-HELPDESK-12
+2026-02-12 11:55:44,4624,WIN-FS01,backup.exec,10.20.9.40,3,C:\Windows\System32\wbengine.exe,WIN-BACKUP-02
+2026-02-12 12:01:08,4624,WIN-FS01,helpdesk.svc,10.24.77.19,10,C:\Windows\System32\winlogon.exe,WIN-HELPDESK-12
+2026-02-12 12:03:17,4624,WIN-FS01,helpdesk.svc,10.24.77.19,3,C:\Windows\System32\services.exe,WIN-HELPDESK-12

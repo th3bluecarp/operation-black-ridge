@@ -1,0 +1,4 @@
+2026-02-12 21:14:06 kubectl get secrets -A
+2026-02-12 21:14:11 kubectl -n analytics get secret grafana-admin -o yaml
+2026-02-12 21:14:31 aws sts get-caller-identity
+2026-02-12 21:14:48 aws s3 ls s3://blackridge-client-exports/

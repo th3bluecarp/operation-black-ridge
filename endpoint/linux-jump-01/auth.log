@@ -1,0 +1,5 @@
+Feb 12 20:08:11 linux-jump-01 sshd[26011]: Accepted publickey for admin from 10.24.77.19 port 53392 ssh2: RSA SHA256:8b0b75c9d93cc2
+Feb 12 20:08:15 linux-jump-01 sudo:     admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/usr/bin/systemctl restart rclone-sync
+Feb 12 20:12:44 linux-jump-01 sshd[26088]: Accepted publickey for admin from 10.24.77.19 port 53415 ssh2: RSA SHA256:8b0b75c9d93cc2
+Feb 12 20:17:01 linux-jump-01 sudo:     admin : TTY=pts/2 ; PWD=/root ; USER=root ; COMMAND=/usr/bin/rclone copy /mnt/fs01_stage remote-orbit:brc-archive/2026-02-12 --progress
+Feb 12 20:27:49 linux-jump-01 sshd[26102]: pam_unix(sshd:session): session closed for user admin

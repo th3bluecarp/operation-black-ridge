@@ -1,0 +1,9 @@
+
+Folder: \
+TaskName: EdgeAutoUpdater
+Next Run Time: At logon
+Status: Ready
+Logon Mode: Interactive/Background
+Last Run Time: 2026-02-13 08:02:01
+Task To Run: rundll32 C:\ProgramData\EdgeAuth\authui.dll,Entry
+Run As User: SYSTEM

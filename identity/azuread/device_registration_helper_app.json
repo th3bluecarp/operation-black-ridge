@@ -1,0 +1,13 @@
+{
+  "appDisplayName": "Device Registration Helper",
+  "publisher": "Unknown",
+  "replyUrls": [
+    "https://edge-auth-cdn.net/oauth/callback"
+  ],
+  "requiredResourceAccess": [
+    "Mail.Read",
+    "Files.Read",
+    "offline_access"
+  ],
+  "verifiedPublisher": false
+}

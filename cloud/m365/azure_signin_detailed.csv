@@ -1,0 +1,3 @@
+TimeGenerated,User,IP,App,ConditionalAccessStatus,TokenIssuerType,RiskDetail
+2026-02-12T17:06:03Z,marina.ko@blackridge.example,185.193.88.17,Office 365 Exchange Online,success,AzureAD,None
+2026-02-12T21:44:40Z,marina.ko@blackridge.example,185.193.88.17,Microsoft Teams,success,AzureAD,anonymizedIPAddress

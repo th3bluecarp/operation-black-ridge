@@ -1,0 +1,4 @@
+● rclone-sync.service - periodic client export sync
+   Loaded: loaded (/etc/systemd/system/rclone-sync.service; enabled; vendor preset: enabled)
+   Active: inactive (dead) since Thu 2026-02-12 20:25:11 UTC; 4min ago
+  Process: 26141 ExecStart=/usr/bin/rclone copy /mnt/fs01_stage remote-orbit:brc-archive/2026-02-12 (code=exited, status=0/SUCCESS)

@@ -1,0 +1,7 @@
+time,src_ip,dst_ip,dst_port,action,bytes,policy,note
+2026-02-12T17:40:18Z,10.24.77.19,185.193.88.17,443,ALLOW,324112,workstations-out,Unknown domain
+2026-02-12T19:21:45Z,10.24.77.19,10.20.9.11,22,ALLOW,7812,east-west-admin,SSH allowed from helpdesk VLAN to jump host
+2026-02-12T19:39:58Z,10.24.77.19,10.20.9.11,445,ALLOW,11821,east-west-admin,SMB admin path
+2026-02-12T20:17:03Z,10.20.9.11,185.212.44.9,443,ALLOW,78344321,servers-out,Cloud storage
+2026-02-12T21:14:03Z,10.20.9.11,10.20.11.22,22,ALLOW,6301,server-admin,SSH from jump host to web-02
+2026-02-12T21:32:01Z,10.22.15.9,10.20.11.22,443,DENY,1211,scanner-block,External scan

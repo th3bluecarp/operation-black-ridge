@@ -1,0 +1,6 @@
+
+help-blackridge.com -> 198.51.100.27
+edge-auth-cdn.net -> 185.193.88.17
+cdn.help-blackridge.com -> 198.51.100.27
+Historical:
+portal-blackridge-help.com -> 198.51.100.27 (2026-02-09 only)

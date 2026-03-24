@@ -1,0 +1,5 @@
+
+2026-02-12 17:39:58 C:\ProgramData\EdgeAuth\authui.dll created
+2026-02-12 17:54:43 C:\ProgramData\debug\lsass_0212.dmp created
+2026-02-12 17:58:04 C:\ProgramData\debug\browser_cache.7z created
+2026-02-13 08:14:17 C:\ProgramData\debug\lsass_0212.dmp deleted

@@ -1,0 +1,4 @@
+host_key,name,encrypted_value,last_access_utc
+.help-blackridge.com,ESTSAUTHLIGHT,<redacted>,2026-02-12T17:05:58Z
+.login.microsoftonline.com,ESTSAUTHPERSISTENT,<redacted>,2026-02-12T17:06:02Z
+.outlook.office.com,OpenIdConnect.token.v1,<redacted>,2026-02-12T17:29:21Z

@@ -1,0 +1,5 @@
+
+[profile analytics-deploy]
+role_arn=arn:aws:iam::111111111111:role/WebProdAdmin
+source_profile=default
+region=us-west-2

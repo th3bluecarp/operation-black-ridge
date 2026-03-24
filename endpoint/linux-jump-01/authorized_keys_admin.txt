@@ -1,0 +1,2 @@
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCuserkey user@laptop
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCattacker imported-key-Feb12

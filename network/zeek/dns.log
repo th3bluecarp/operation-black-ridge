@@ -1,0 +1,7 @@
+ts,uid,id.orig_h,id.resp_h,query,qtype_name,rcode_name,answers
+2026-02-12T17:03:40Z,C1,10.24.77.19,10.20.0.53,help-blackridge.com,A,NOERROR,198.51.100.27
+2026-02-12T17:03:41Z,C2,10.24.77.19,10.20.0.53,cdn.help-blackridge.com,A,NOERROR,198.51.100.27
+2026-02-12T17:39:59Z,C3,10.24.77.19,10.20.0.53,ocsp.digicert.com,A,NOERROR,23.54.12.2
+2026-02-12T17:40:18Z,C4,10.24.77.19,10.20.0.53,edge-auth-cdn.net,A,NOERROR,185.193.88.17
+2026-02-12T20:17:02Z,C5,10.20.9.11,10.20.0.53,us-archive-files.s3-gw-storage.net,A,NOERROR,185.212.44.9
+2026-02-12T21:33:11Z,C6,10.21.8.44,10.20.0.53,telemetry.redlab.local,A,NOERROR,10.21.8.9

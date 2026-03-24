@@ -1,0 +1,4 @@
+NAMESPACE,NAME,STATUS,NODE
+analytics,grafana-7dd4f7fdb8-tt9pr,Running,web-02
+analytics,etl-api-6b9d8ff8d-b8w4p,Running,web-02
+default,scanner-5c9bc6f84d-r2mjq,Running,worker-01

@@ -1,0 +1,4 @@
+Time,ClientAddress,UserName,ShareName,ObjectName,AccessMask,Status
+2026-02-12 19:39:53,10.24.77.19,BLACKRIDGE\helpdesk.svc,\\*\Finance,D:\Shares\Clients\Orion\BoardNotes-Feb.pdf,0x120089,Success
+2026-02-12 19:40:01,10.24.77.19,BLACKRIDGE\helpdesk.svc,\\*\Finance,D:\Shares\Clients\Orion\Q4_Phoenix_Merger.zip,0x120089,Success
+2026-02-12 19:40:22,10.20.9.40,BLACKRIDGE\backup.exec,\\*\Backups,D:\Backups\FS01\nightly.vbk,0x12019f,Success

@@ -1,0 +1,8 @@
+published,eventType,outcome.result,actor.alternateId,client.ipAddress,client.userAgent.rawUserAgent,displayMessage,debugContext.debugData.requestUri
+2026-02-12T17:05:01.125Z,user.session.start,SUCCESS,marina.ko@blackridge.example,10.24.77.19,Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/133.0.0.0,User login to Okta,/app/UserHome
+2026-02-12T17:05:37.412Z,user.authentication.auth_via_mfa,SUCCESS,marina.ko@blackridge.example,10.24.77.19,Chrome/133.0.0.0,Okta Verify push accepted,/signin/verify/okta/push
+2026-02-12T17:06:02.004Z,app.oauth2.as.authorize.success,SUCCESS,marina.ko@blackridge.example,185.193.88.17,Chrome/133.0.0.0,Federated auth via AAD,/oauth2/v1/authorize/redirect
+2026-02-12T17:28:11.220Z,application.user_membership.add,SUCCESS,marina.ko@blackridge.example,185.193.88.17,Chrome/133.0.0.0,User added delegated consent for app "Device Registration Helper",/admin/app/instance/0oa9xyk2
+2026-02-12T17:31:55.002Z,system.idp.lifecycle.create,SUCCESS,system@blackridge.example,10.20.0.15,Curl/7.68.0,New routing rule lab-saml-test,/api/v1/idps
+2026-02-12T19:42:44.081Z,user.authentication.sso,SUCCESS,marina.ko@blackridge.example,185.193.88.17,Chrome/133.0.0.0,SSO to O365,/app/office365/exk123
+2026-02-13T01:09:18.876Z,user.session.start,FAILURE,jason.blake@blackridge.example,45.86.23.19,python-requests/2.31,Login failed,/app/UserHome

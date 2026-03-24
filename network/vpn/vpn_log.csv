@@ -1,0 +1,4 @@
+timestamp,user,src_ip,result,assigned_ip,device
+2026-02-12T14:01:22Z,jason.blake@blackridge.example,45.86.23.19,FAIL,,
+2026-02-12T17:02:11Z,marina.ko@blackridge.example,73.201.44.8,SUCCESS,10.24.77.19,Windows 10
+2026-02-12T22:51:01Z,marina.ko@blackridge.example,185.193.88.17,FAIL,,

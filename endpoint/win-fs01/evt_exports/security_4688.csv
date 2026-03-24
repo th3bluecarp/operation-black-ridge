@@ -1,0 +1,4 @@
+TimeCreated,EventID,NewProcessName,CommandLine,CreatorProcessName,SubjectUserName
+2026-02-12 19:40:14,4688,C:\Windows\System32\robocopy.exe,robocopy.exe D:\Shares\Clients\Orion C:\ProgramData\stage\Orion /E /R:0 /W:0,C:\Windows\System32\cmd.exe,helpdesk.svc
+2026-02-12 19:58:55,4688,C:\Program Files\7-Zip\7z.exe,7z.exe a -t7z C:\ProgramData\stage\orion_stage.7z C:\ProgramData\stage\Orion,C:\Windows\System32\cmd.exe,helpdesk.svc
+2026-02-12 20:10:32,4688,C:\Windows\System32\wevtutil.exe,wevtutil.exe cl Microsoft-Windows-SMBServer/Audit,C:\Windows\System32\cmd.exe,helpdesk.svc

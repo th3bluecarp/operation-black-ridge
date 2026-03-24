@@ -1,0 +1,6 @@
+TimeGenerated,OperationName,Result,UserPrincipalName,IPAddress,AppDisplayName,AdditionalDetails
+2026-02-12T17:06:03Z,UserLoggedIn,Success,marina.ko@blackridge.example,185.193.88.17,Office 365 Exchange Online,"MFA satisfied by federated claim"
+2026-02-12T17:27:55Z,Consent to application,Success,marina.ko@blackridge.example,185.193.88.17,Device Registration Helper,"Scope=Mail.Read Files.Read offline_access"
+2026-02-12T17:33:02Z,Add service principal credentials,Success,svc.sync@blackridge.example,10.20.0.12,Lab Sync Tool,"Certificate added by admin automation"
+2026-02-12T21:44:40Z,UserLoggedIn,Success,marina.ko@blackridge.example,185.193.88.17,Microsoft Teams,"Browser"
+2026-02-13T00:39:51Z,UserLoggedIn,Success,marina.ko@blackridge.example,185.193.88.17,SharePoint Online,"Browser"

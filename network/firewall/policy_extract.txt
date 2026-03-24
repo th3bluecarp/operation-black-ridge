@@ -1,0 +1,5 @@
+Policy east-west-admin:
+- source zones: user-vlans, admin-vlan
+- destination zones: server-vlan
+- allows: SSH, SMB, WinRM
+- condition: helpdesk assets are exempt for remote support

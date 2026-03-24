@@ -1,0 +1,5 @@
+HKLM\Software\Microsoft\Windows\CurrentVersion\Run
+  SecurityHealth = C:\Windows\system32\SecurityHealthSystray.exe
+
+HKLM\Software\Microsoft\Windows NT\CurrentVersion\Schedule\TaskCache\Tasks\{4FA2A-EDGE-AUTO}
+  Path = \EdgeAutoUpdater

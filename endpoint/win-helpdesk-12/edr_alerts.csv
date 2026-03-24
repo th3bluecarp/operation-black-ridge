@@ -1,0 +1,4 @@
+timestamp,host,severity,technique,description,disposition
+2026-02-12T17:40:19Z,WIN-HELPDESK-12,high,T1218,Unsigned DLL execution via rundll32 from ProgramData,new
+2026-02-12T17:54:43Z,WIN-HELPDESK-12,critical,T1003.001,Potential LSASS dump via procdump,new
+2026-02-12T19:21:45Z,WIN-HELPDESK-12,high,T1021.002,PsExec lateral movement to WIN-FS01,new

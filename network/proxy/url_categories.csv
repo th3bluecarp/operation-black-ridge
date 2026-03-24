@@ -1,0 +1,5 @@
+host,category,reputation
+help-blackridge.com,Newly Observed Domain,unrated
+edge-auth-cdn.net,Unknown,unrated
+us-archive-files.s3-gw-storage.net,Cloud Storage,low-volume
+github.com,Developer Tools,known-good

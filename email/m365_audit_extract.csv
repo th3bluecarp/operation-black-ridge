@@ -1,0 +1,7 @@
+CreationTime,UserId,Operation,Workload,ResultStatus,ClientIP,Details
+2026-02-12T17:04:18Z,marina.ko@blackridge.example,MailItemsAccessed,Exchange,Success,10.24.77.19,"Browser=Chrome"
+2026-02-12T17:29:21Z,marina.ko@blackridge.example,New-InboxRule,Exchange,Success,185.193.88.17,"Name=RSS Feeds Sync; MoveToFolder=RSS Subscriptions; SubjectContainsWords=reset,verify,okta"
+2026-02-12T18:04:31Z,marina.ko@blackridge.example,UpdateInboxRules,Exchange,Success,185.193.88.17,"RuleEnabled=true"
+2026-02-12T22:11:08Z,svc.sharepoint@blackridge.example,FileDownloaded,SharePoint,Success,10.20.44.22,"/sites/clients/Shared Documents/Q4_Phoenix_Merger.zip"
+2026-02-12T22:19:53Z,marina.ko@blackridge.example,SearchQueryInitiatedExchange,Exchange,Success,185.193.88.17,"query=wire OR invoice OR escrow"
+2026-02-13T00:42:10Z,marina.ko@blackridge.example,FileAccessed,OneDrive,Success,185.193.88.17,"/Clients/Orion/BoardNotes-Feb.pdf"

@@ -1,0 +1,6 @@
+UtcTime,EventID,Image,CommandLine,User,ParentImage,DestinationIp,DestinationPort,TargetFilename
+2026-02-12 19:22:11.931,1,C:\Windows\System32\cmd.exe,"cmd.exe /c whoami && hostname",BLACKRIDGE\helpdesk.svc,C:\Windows\PSEXESVC.exe,,,
+2026-02-12 19:40:14.440,11,C:\Windows\System32\robocopy.exe,"robocopy.exe D:\Shares\Clients\Orion C:\ProgramData\stage\Orion /E /R:0 /W:0",BLACKRIDGE\helpdesk.svc,C:\Windows\System32\cmd.exe,,,C:\ProgramData\stage\Orion
+2026-02-12 19:58:55.003,11,C:\Program Files\7-Zip\7z.exe,"7z.exe a -t7z C:\ProgramData\stage\orion_stage.7z C:\ProgramData\stage\Orion",BLACKRIDGE\helpdesk.svc,C:\Windows\System32\cmd.exe,,,C:\ProgramData\stage\orion_stage.7z
+2026-02-12 20:04:12.412,3,C:\Windows\System32\svchost.exe,"svchost.exe -k netsvcs",NT AUTHORITY\SYSTEM,C:\Windows\System32\services.exe,10.20.9.11,445,
+2026-02-12 20:10:32.774,23,C:\Windows\System32\wevtutil.exe,"wevtutil.exe cl Microsoft-Windows-SMBServer/Audit",BLACKRIDGE\helpdesk.svc,C:\Windows\System32\cmd.exe,,,
