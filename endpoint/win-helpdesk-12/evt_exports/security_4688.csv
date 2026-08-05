@@ -1,4 +1,4 @@
 TimeCreated,EventID,NewProcessName,CommandLine,CreatorProcessName,SubjectUserName
-2026-02-12 17:40:18,4688,C:\Windows\System32\rundll32.exe,rundll32.exe C:\ProgramData\EdgeAuth\authui.dll,Entry,C:\Windows\System32\cmd.exe,helpdesk.svc
+2026-02-12 17:40:18,4688,C:\Windows\System32\rundll32.exe,"rundll32.exe C:\ProgramData\EdgeAuth\authui.dll,Entry",C:\Windows\System32\cmd.exe,helpdesk.svc
 2026-02-12 17:54:42,4688,C:\Windows\System32\procdump64.exe,procdump64.exe -accepteula -ma lsass.exe C:\ProgramData\debug\lsass_0212.dmp,C:\Windows\System32\cmd.exe,helpdesk.svc
 2026-02-12 19:21:44,4688,C:\Windows\System32\psexec.exe,psexec.exe \\WIN-FS01 -u BLACKRIDGE\helpdesk.svc cmd /c whoami && hostname,C:\Windows\System32\cmd.exe,helpdesk.svc
